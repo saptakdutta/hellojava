@@ -14,5 +14,4 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
-    public static void main2(String[] args) {}
 }
